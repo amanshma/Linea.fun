@@ -32,6 +32,3 @@ To provide actionable insights and real-time monitoring, we will integrate Chain
 
 ## Our vision
 Linea.fun aims to be the go-to platform for community-driven projects on Ethereum. By combining powerful tools for asset management, integration with the Nero chain, and in-depth analytics with the help of Chainsight, we strive to create a comprehensive and user-centric launchpad experience.
-
-## DEMO
-[LIVE](https://Linea.fun)
