@@ -25,7 +25,7 @@ What to Expect:
 Unlike traditional launchpads, Linea.fun will support a wide array of assets beyond memecoins, including unique content and other blockchain-based resources.
 
 ### Deployment on Linea: 
-We are deploying Linea.fun on the Nero chain to leverage its unique capabilities and performance. Nero's features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
+We are deploying Linea.fun on the Linea chain to leverage its unique capabilities and performance. Linea features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
 
 ### Advanced Analytics with Chainsight: 
 To provide actionable insights and real-time monitoring, we will integrate Chainsight into our platform. This will allow users to track transactions, analyze network performance, and gain valuable insights into blockchain activities.
