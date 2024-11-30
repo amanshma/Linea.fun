@@ -3,9 +3,9 @@
 
 How cool is Pump.fun, right.
 
-But its cool only on Solana, Why not on Ethereum.?
+But its cool only on Solana, Why not on Linea.?
 
-This was the question first asked and we did research. The conclusion: Its possible on Ethereum too. 
+This was the question first asked and we did research. The conclusion: Its possible on Linea too. 
 
 How? 
 
@@ -13,7 +13,7 @@ With [Linea.fun](https://Linea.fun)
 
 But what makes it unique?
 
-This will not be another project focusing only on memecoin, there are more than just memecoin on ethereum, and we will utilise it to fullest.
+This will not be another project focusing only on memecoin, there are more than just memecoin on Linea, and we will utilise it to fullest.
 
 One liner intro of the project:
 
@@ -24,7 +24,7 @@ What to Expect:
 ### Diverse Asset Support: 
 Unlike traditional launchpads, Linea.fun will support a wide array of assets beyond memecoins, including unique content and other blockchain-based resources.
 
-### Deployment on NERO: 
+### Deployment on Linea: 
 We are deploying Linea.fun on the Nero chain to leverage its unique capabilities and performance. Nero's features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
 
 ### Advanced Analytics with Chainsight: 
