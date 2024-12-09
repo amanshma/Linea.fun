@@ -1,6 +1,8 @@
 
 # Linea.fun
 
+Deployed Smart Contract 0x488AB085f058649391B9Ed2f9dA34001EC5f90f0
+
 How cool is Pump.fun, right.
 
 But its cool only on Solana, Why not on Linea.?
